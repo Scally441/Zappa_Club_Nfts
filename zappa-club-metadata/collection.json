@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zKEVM NFT Project",
-    "description": "A collection of immutable NFTs on the zKEVM network.",
-    "image": "http://localhost/NFT-PROJECT/collection.webp",
-    "external_url": "http://localhost/Collection"
+    "name": "Zappa Club NFT Project",
+    "description": "A project for minting NFTs on Immutable zKEVM",
+    "image": "http:///collection.webp",
+    "external_url": "https://zappaclub.io"
 }
