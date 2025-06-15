@@ -1,0 +1,26 @@
+{
+  "name": "zappa_club_tickets",
+  "author": "Scally441",
+  "description": "Zappa Club Tickets ",
+  "version": "0.1.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scally441/Zappa_Club_Nfts.git"
+  },
+  "scripts": {
+    "build": "npx thirdweb@latest detect",
+    "deploy": "npx thirdweb@latest deploy",
+    "publish": "npx thirdweb@latest publish"
+  },
+  "devDependencies": {
+    "@matterlabs/hardhat-zksync-solc": "^1.1.14",
+    "@matterlabs/hardhat-zksync-verify": "^1.7.1",
+    "hardhat": "^2.24.3",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@thirdweb-dev/contracts": "^3.8.0",
+    "zksync-ethers": "^5.7.0"
+  }
+}
