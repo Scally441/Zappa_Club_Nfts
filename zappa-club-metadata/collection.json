@@ -1,6 +1,6 @@
 {
     "name": "Zappa Club NFT Project",
     "description": "A project for minting NFTs on Immutable zKEVM",
-    "image": "http:///collection.webp",
+    "image": "https://scally441.github.io/Zappa_Club_Nfts/zappa-club-metadata/collection.webp",
     "external_url": "https://zappaclub.io"
 }
